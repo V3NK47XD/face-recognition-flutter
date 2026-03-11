@@ -1,4 +1,4 @@
-Mobile On-Device Face Recognition 📱🧠
+##Mobile On-Device Face Recognition 📱🧠
 
 A Flutter-based mobile application that performs offline face recognition directly on the device using TensorFlow Lite.
 The app captures a face using the camera and compares it with a previously captured face to determine if they match.
